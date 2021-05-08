@@ -27,8 +27,8 @@ numberVowels++ ;
 
 END For
 END For
-write(lengthSentence)
-write(numberWords)
-write(numberVowels)
+write(lengthSentence);
+write(numberWords);
+write(numberVowels);
 END         
 
